@@ -1,0 +1,6 @@
+./results/up_down_counter_project_func::nom.spef.p1_125.spef for scenarios: 
+	 scenario: func::nom, corner type: late
+
+./results/up_down_counter_project_func::nom.spef.p2_125.spef for scenarios: 
+	 scenario: func::nom, corner type: early
+

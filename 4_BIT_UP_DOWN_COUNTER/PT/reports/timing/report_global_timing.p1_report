@@ -1,0 +1,12 @@
+****************************************
+Report : global_timing
+	-format { narrow }
+Design : up_down_counter
+Version: W-2024.09
+Date   : Sun Jun  1 05:34:53 2025
+****************************************
+
+No setup violations found.
+
+No hold violations found.
+1
