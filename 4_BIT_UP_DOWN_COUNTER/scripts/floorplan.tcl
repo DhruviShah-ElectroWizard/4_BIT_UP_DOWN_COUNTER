@@ -1,12 +1,12 @@
 set PDK_PATH ./../ref
 
-create_lib -ref_lib $PDK_PATH/lib/ndm/saed32rvt_c.ndm FULL_ADDER_LIBDH
+create_lib -ref_lib $PDK_PATH/lib/ndm/saed32rvt_c.ndm UP_DOWN_COUNTER_LIBDH
 
-read_verilog {./../DC/results/full_adder.mapped.v} -library FULL_ADDER_LIBDH -design full_adder -top full_adder
+read_verilog {./../DC/results/counter.mapped.v} -library UP_DOWN_COUNTER_LIBDH -design up_down_counter -top up_down_counter
 
 #open the lib and block after saving
-open_lib FULL_ADDER_LIBDH
-open_block FULL_ADD
+open_lib UP_DOWN_COUNTER_LIBDH
+open_block UP_DOWN_COUNTER
 
 
 # FloorPlan settings
