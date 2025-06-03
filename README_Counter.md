@@ -344,6 +344,41 @@ These are some snapshots for the reference:
   <img src="https://github.com/user-attachments/assets/a838b803-0336-4233-be03-db3ef959df6a" alt="Power Report" width="350"/>
 </p>
 
+## ICC2 Design Layout Stages
+This project was implemented using Synopsys IC Compiler II (ICC2) with the following physical design steps:
+
+- Floorplanning
+
+- Power Planning
+
+- Placement
+
+- Routing
+
+- Clock (Final Layout)
+
+<!-- Row 1 -->
+<h4 align="center">Floorplanning</h4>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b39ef3ab-870b-4f95-beb3-6daf4a9343f2" alt="Floorplanning" width="350"/>
+</p>
+
+<h4 align="center">Power Planning</h4>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/74f4413c-451b-4659-8789-bb84ebd513f7" alt="Power Planning" width="350"/>
+</p>
+
+<!-- Row 2 -->
+<h4 align="center">Placement</h4>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2ea90708-9555-4e01-9fe4-11ce0fa09f30" alt="Placement" width="350"/>
+</p>
+
+<h4 align="center">Routing</h4>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9690d769-e3ed-493c-87aa-50ef755cebf3" alt="Routing" width="350"/>
+</p>
+
 ## Final Layout and Schematic Diagram
 <h4 align="center">🔲 Final ICC2 Layout</h4>
 <p align="center">
